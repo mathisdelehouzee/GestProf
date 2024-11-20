@@ -25,6 +25,7 @@ public class Ig19Suite {
     @BeforeClass
     public static void setUpClass() throws Exception {
         System.out.println("Suite.BeforeCLass.setUpClass");
+        System.out.println("Test de push");
     }
 
     @AfterClass
